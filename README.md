@@ -11,3 +11,15 @@ Hi, I'm Emanuel Navarro!
 </p>
 
 <hr>
+
+<pre>
+💻 I am a self-taught developer, currently working as a Web Scraping at Prometeo Openbanking
+📚 I studied Telecommunications Technology at CURE (Uruguay)
+📝 I have experience as Web Scraping, Monitoring Analyst Ssr, Application Support Engineer Jr and QA Jr
+🔭 I’m working on data collection, automation, and backend development
+🌱 Continuously learning new technologies while exploring the development world
+🌍 Languages: Native Spanish, Fluent English
+🌟 Interested in Web Scraping, Automation, and APIs
+⚡ Hobbies: 🏄 Surfing | 🏋️ Gym | ⚽ Soccer
+</pre>
+<hr>
