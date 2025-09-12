@@ -54,3 +54,36 @@ Hi, I'm Emanuel Navarro!
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+<br/>
+<summary><b>⚡ Emanuel's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/enavarro1723">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=enavarro1723&show_icons=true" alt="enavarro1723">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=enavarro1723" alt="enavarro1723">
+	</a>
+	<br/>
+</p>
+<br/>
+<!--
+<summary><b>⚡ Activity graph</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/enavarro1723">
+		<img src="https://activity-graph.herokuapp.com/graph?username=enavarro1723&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="enavarro1723">
+	</a>
+</p>
+<br/>
+-->
+<summary><b>⚡ Top Languages</b></summary>
+<br/>
+
+<p align="center">
+	<a href="https://github.com/enavarro1723">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enavarro1723&langs_count=8&layout=compact" alt="enavarro1723">
+	</a>
+	<br/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+<br/>
