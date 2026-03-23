@@ -74,4 +74,5 @@ Hi, I'm Emanuel Navarro!
  	<a href="https://github.com/enavarro1723"><img alt="Datadog" src="https://img.shields.io/badge/Datadog-%23632CA6.svg?logo=datadog&logoColor=white"></a>
 	<a href="https://github.com/enavarro1723"><img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-%23FF0000.svg?logo=zabbix&logoColor=white"></a>
  	<a href="https://github.com/enavarro1723"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?logo=raspberrypi&logoColor=white"></a>
+	<a href="https://github.com/enavarro1723"><img alt="Raspberry Pi" src="https://img.shields.io/badge/ngrok-black?logo=ngrok"></a>
 </p>
